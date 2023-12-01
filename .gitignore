@@ -1,0 +1,15 @@
+# Avoid accidental Sketch file upload 
+###############################################
+## Please do not remove line 5 - thanks! 🙂 ##
+###############################################
+*.sketch
+
+
+*.xd
+*.fig
+##########################################
+.DS_Store
+design
+README-template.md
+README.md
+style-guide.md
